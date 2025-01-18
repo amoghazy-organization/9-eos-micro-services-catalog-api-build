@@ -14,7 +14,10 @@
 	<name>catalog</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
-		<java.version>11</java.version>
+		<java.version>21</java.version>
+<source>21</source>
+<target>21</target>
+
 		<spring-cloud.version>2021.0.4</spring-cloud.version>
 		<spring-boot-admin.version>2.6.5</spring-boot-admin.version>
         <sonar.organization>ecomme</sonar.organization>
